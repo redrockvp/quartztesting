@@ -1,6 +1,6 @@
 ---
 title: Welcome to Quartz
-publish: false
+publish: true
 
 ---
 
